@@ -1,4 +1,4 @@
-![Image of Jensen O'Meara](images/headshot.png)
+![Image of Jensen O'Meara](images/headshot1.png)
 
 ## About Me
 I am a MS student in the UConn EEB department interested in aquatic ecosystem contaminants.
