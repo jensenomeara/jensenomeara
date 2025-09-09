@@ -1,2 +1,7 @@
 theme: jekyll-theme-midnight
 title: Jensen O'Meara
+description: Ecology M.S. Student
+
+header_pages:
+-images
+-contact-info.md
