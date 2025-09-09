@@ -1,5 +1,4 @@
 ---
-
 title: Contact Info
 layout: default
 ---
@@ -14,4 +13,4 @@ Postal address:
     Storrs, CT 06269-3043
     U.S.A.
 
-[Back to Home](https://github.com/jensenomeara)
+[Back to Home](https://jensenomeara.github.io/)
