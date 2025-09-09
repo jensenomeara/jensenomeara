@@ -1,7 +1,4 @@
----
-title: Contact Info
-layout: default
----
+
 
 Feel free to contact me at <aeo22002@uconn.edu>.
 
