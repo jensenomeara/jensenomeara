@@ -6,3 +6,4 @@ I am a MS student in the UConn EEB department interested in aquatic ecosystem co
 [My CV](PDFs/CV.pdf)
 
 [Contact Info](contact-info.html) 
+[UConn EEB Webpage] (https://eeb.uconn.edu/)
